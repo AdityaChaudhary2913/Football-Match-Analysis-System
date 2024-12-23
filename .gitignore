@@ -4,8 +4,9 @@ yolov8x.pt
 
 # Distribution / packaging
 input_videos/
-training/
-!training/training_yolo_v5.ipynynb
+output_videos/
+training/football-players-detection-1
+training/yolov5xu.pt
 models/
 runs/
 build/
